@@ -270,7 +270,7 @@ namespace LINQ
                     BankName = bank.Name
                 });         
 
-            Console.WriteLine("These customers are millionaires and the following banks.");
+            Console.WriteLine("These customers are millionaires at the following banks.");
             foreach (var item in millionaireReport.OrderBy(name => name.CustomerLastName()))
             {
                 Console.WriteLine($"{item.CustomerName} at {item.BankName}");

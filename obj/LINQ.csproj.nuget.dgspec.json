@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\William\\workspace\\csharp\\exercises\\LINQ\\LINQ.csproj": {}
+    "C:\\Users\\William\\workspace\\csharp\\exercises\\linq\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\William\\workspace\\csharp\\exercises\\LINQ\\LINQ.csproj": {
+    "C:\\Users\\William\\workspace\\csharp\\exercises\\linq\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\workspace\\csharp\\exercises\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\William\\workspace\\csharp\\exercises\\linq\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "C:\\Users\\William\\workspace\\csharp\\exercises\\LINQ\\LINQ.csproj",
+        "projectPath": "C:\\Users\\William\\workspace\\csharp\\exercises\\linq\\LINQ.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\workspace\\csharp\\exercises\\LINQ\\obj\\",
+        "outputPath": "C:\\Users\\William\\workspace\\csharp\\exercises\\linq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
